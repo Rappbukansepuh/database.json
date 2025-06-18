@@ -1,0 +1,4 @@
+const token = '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'; // Ganti dengan token kamu
+        const owner = 'EscanorDevelopments';
+        const repo = 'repo';
+        const path = 'login.json';
